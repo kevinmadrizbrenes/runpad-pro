@@ -2,14 +2,18 @@
 
 Editor y lanzador de scripts en **Tkinter**. Un solo archivo (`runpad-pro.py`). Tema oscuro, consola integrada y “Automatizador” con arrastrar-y-soltar.
 
+<p align="center">
+  <img src="runpad.jpg" alt="RunPad Pro — captura" width="900">
+</p>
+
 ## Autor
 Kevin Madriz Brenes — Costa Rica.
 
 ## Características
 - Editor con líneas, zoom y resaltado simple.
-- Guardado y “Guardar como…”.
-- Buscar/Reemplazar.
-- Consola integrada con cola de salida.
+- Guardar / Guardar como.
+- Buscar / Reemplazar.
+- Consola integrada y cola de salida.
 - Ejecutar archivo actual y lote de scripts marcados.
 - Explorador de carpetas, subcarpetas y archivos.
 - Arrastrar archivos → Automatizador.
