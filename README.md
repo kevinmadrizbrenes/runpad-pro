@@ -3,7 +3,7 @@
 Editor y lanzador de scripts en **Tkinter**. Un solo archivo (`runpad-pro.py`). Tema oscuro, consola integrada y “Automatizador” con arrastrar-y-soltar.
 
 <p align="center">
-  <img src="runpad.jpg" alt="RunPad Pro — captura" width="900">
+  <img src="assets/runpad.jpg" alt="RunPad Pro — captura" width="900">
 </p>
 
 ## Autor
